@@ -1,6 +1,6 @@
 <?php
 
-namespace rmvit\task04;
+namespace elie\task04;
 
 require __DIR__ . '/../vendor/autoload.php';
 require 'StackInterface.php';

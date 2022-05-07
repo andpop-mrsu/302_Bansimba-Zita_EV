@@ -1,8 +1,8 @@
 {
-    "name": "rmvit/task04",
+    "name": "elie/task04",
     "autoload": {
         "psr-4": {
-            "Rmvit\\Task04\\": "src/"
+            "elie\\Task04\\": "src/"
         },
         "files": [
             "src/Test.php",
@@ -10,8 +10,8 @@
         ]
     },
     "authors": [{
-        "name": "Vitaliy-Ryazin",
-        "email": "rmvitaliy@yandex.ru"
+        "name": "Elie-Vascres",
+        "email": "elievascres3@gmail.com"
     }],
     "require": {}
 }
