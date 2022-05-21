@@ -1,0 +1,20 @@
+{
+    "name": "elie/Task06_2",
+    "autoload": {
+        "psr-4": {
+            "elie\\Task06_2\\": [ 
+                "src/",
+                "tests/Unit/"
+            ]
+        },
+        "files": [ "src/Test.php" ]
+    },
+    "authors": [
+        {
+            "name": "elie"
+        }
+    ],
+    "require": {
+        "phpunit/phpunit": "^9.5"
+    }
+}
